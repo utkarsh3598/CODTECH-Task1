@@ -1,6 +1,6 @@
 # CODTECH-Task1
-Name: UTKARSH
-Company: CODTECH IT SOLUTIONS
-ID: CT8WD1210
-Domain: Web Development
-Duration: June to August 2024
+Name: UTKARSH <br>
+Company: CODTECH IT SOLUTIONS <br>
+ID: CT8WD1210 <br>
+Domain: Web Development <br>
+Duration: June to August 2024 <br>
