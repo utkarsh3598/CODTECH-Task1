@@ -10,15 +10,15 @@ Duration: June to August 2024 <br>
 ### Project: To Do List using HTML, CSS & Javascript.
 
 ### Objectives:
-Easy task creation, editing, and deletion.
-Prioritize tasks with due dates and importance levels.
-Categorize and group tasks.
-Set reminders and notifications.
-Support task sharing and assignment for teams.
-Ensure a user-friendly interface.
-Make it accessible across various devices.
-Allow user customization.
-Secure and protect user data.
-Ensure responsiveness and reliability.
+Easy task creation, editing, and deletion. <br>
+Prioritize tasks with due dates and importance levels. <br>
+Categorize and group tasks. <br>
+Set reminders and notifications. <br>
+Support task sharing and assignment for teams. <br>
+Ensure a user-friendly interface. <br>
+Make it accessible across various devices. <br>
+Allow user customization. <br>
+Secure and protect user data. <br>
+Ensure responsiveness and reliability. <br>
 
 
