@@ -9,5 +9,6 @@ Duration: June to August 2024 <br>
 
 ### Project: To Do List using HTML, CSS & Javascript.
 
-#### Objectives:
+### Objectives:
+
 
