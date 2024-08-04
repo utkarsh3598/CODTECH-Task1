@@ -7,4 +7,5 @@ Duration: June to August 2024 <br>
 
 ## Overview of the Project
 
-### Project: To Do List
+### Project: To Do List using HTML, CSS & Javascript.
+
